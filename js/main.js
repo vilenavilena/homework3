@@ -1,6 +1,6 @@
 const API = 'https://raw.githubusercontent.com/GeekBrainsTutorial/online-store-api/master/responses/';
 
-
+//Просто изменения для проверки гита
 const getRequest = (url) => {
   return new Promise((resolve, reject) => {
     let xhr = new XMLHttpRequest();
